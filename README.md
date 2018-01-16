@@ -1,3 +1,20 @@
+**LRU Cache Implementation in Python**
+
+*How to Run this File*
+   >> python LRU.py
+
+*Modules Used in Code*
+1. Collection, Orderddict
+2. itertools
+3. random
+
+Improvement:
+1. Command line Interface to Play with LRU Cache using argparser, click
+2. Print Data in Tabular format usign preetytables
+3. Divide this into Multiple module or files
+
+
+*Requirements*
 
 User Creation Module
 1. Create User where id is the key and user info is the detail
