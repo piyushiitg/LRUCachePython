@@ -45,7 +45,9 @@ Build a cache using above users so get the user
 Task 3:
 
 Update and Delte the User, so that if the user exists in cache it should be delted or added back to cache.
+
 User Deleted -  User(2)-Piyu
+
 User Update -  User(1)-Pii
 
 ----------------------------------
@@ -55,4 +57,21 @@ User Update -  User(1)-Pii
 |  1  |     User(1)->Pii         |
 
 ----------------------------------
+
+Task 4:
+
+Read the All the Users from the cache and see the LRU Cache output
+
+Reading this User ids [3, 1, 4, 0, 5]
+
+----------------------------------
+
+|  4  |     User(4)->Pi          |
+
+|  0  |     User(0)->Piyush      |
+
+|  5  |     User(5)->Pih         |
+
+----------------------------------
+
 
