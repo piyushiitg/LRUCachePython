@@ -13,4 +13,4 @@ Operations
 1. Create User
 2. Delete User
 3. Update the User
-4. Fetch the User Information
+3. Fetch the User Information
