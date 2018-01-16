@@ -8,9 +8,9 @@
 2. itertools
 3. random
 
-Improvement:
+*Improvement:*
 1. Command line Interface to Play with LRU Cache using argparser, click
-2. Print Data in Tabular format usign preetytables
+2. Print Data in Tabular format usign prettytables
 3. Divide this into Multiple module or files
 
 
@@ -34,9 +34,9 @@ Operations
 3. Fetch the User Information
 
 
-Tasks:
+*Tasks:*
 
-Task 1:
+*Task 1:*
 
 Creating Multiple Users
 
@@ -46,7 +46,7 @@ User Added -  Singhai
 User Added -  Piyu
 User Added -  Jain
 
-Task 2:
+*Task 2:*
 
 Build a cache using above users so get the user
 
@@ -59,7 +59,7 @@ Build a cache using above users so get the user
 
 ---------------------------------------
 
-Task 3:
+*Task 3:*
 
 Update and Delte the User, so that if the user exists in cache it should be delted or added back to cache.
 
@@ -75,7 +75,7 @@ User Update -  User(1)-Pii
 
 ----------------------------------
 
-Task 4:
+*Task 4:*
 
 Read the All the Users from the cache and see the LRU Cache output
 
