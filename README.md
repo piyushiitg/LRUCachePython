@@ -42,3 +42,17 @@ Build a cache using above users so get the user
 
 ---------------------------------------
 
+Task 3:
+
+Update and Delte the User, so that if the user exists in cache it should be delted or added back to cache.
+User Deleted -  User(2)-Piyu
+User Update -  User(1)-Pii
+
+----------------------------------
+
+|  3  |     User(3)->Jain        |
+
+|  1  |     User(1)->Pii         |
+
+----------------------------------
+
