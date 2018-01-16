@@ -7,6 +7,7 @@ User Creation Module
 Cache Module
 1. Get
 2. Set
+3. Delete
 3. Print
 
 Operations
@@ -14,3 +15,31 @@ Operations
 2. Delete User
 3. Update the User
 3. Fetch the User Information
+
+
+Tasks:
+
+Task 1:
+
+Creating Multiple Users
+
+User Addition in database
+User Added -  Piyush
+User Added -  Singhai
+User Added -  Piyu
+User Added -  Jain
+
+Task 2:
+
+Build a cache using above users so get the user
+
+key 0 Cache Miss, add the entry into the cache Cache is [OrderedDict()]
+key 1 Cache Miss, add the entry into the cache Cache is [OrderedDict([(0, User(0)->Piyush)])]
+key 2 Cache Miss, add the entry into the cache Cache is [OrderedDict([(0, User(0)->Piyush), (1, User(1)->Singhai)])]
+key 3 Cache Miss, add the entry into the cache Cache is [OrderedDict([(0, User(0)->Piyush), (1, User(1)->Singhai), (2, User(2)->Piyu)])]
+----------------------------------
+|  1  |     User(1)->Singhai          |
+|  2  |     User(2)->Piyu          |
+|  3  |     User(3)->Jain          |
+----------------------------------
+
